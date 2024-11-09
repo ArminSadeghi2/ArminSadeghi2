@@ -71,7 +71,7 @@ Consistently delivered high-quality, scalable software solutions under tight dea
 📫 Contact Me
 Email: arminsadeghi555@gmail.com
 
-GitHub: GitHub Profile
+GitHub:(https://github.com/ArminSadeghi2)
 
 
 🌱 Continuous Learning
