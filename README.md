@@ -8,7 +8,7 @@ I am passionate about leveraging my skills to solve real-world problems, from bu
 
 ⚡ Skills
 👨‍💻 Programming Languages
-Python (Web development, automation, machine learning)
+Python (Web development, automation,)
 C# (Desktop and web applications)
 JavaScript (Front-end and back-end development)
 PHP (Dynamic web applications)
